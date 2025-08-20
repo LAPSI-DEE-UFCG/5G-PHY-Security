@@ -46,7 +46,9 @@ Contributions, suggestions, and corrections are welcome! Use the Issues or Pull 
 ## Developers
 
 João Pedro Melquiades Gomes
+
 Matheus Vilarim P. dos Santos
+
 Edmar C. Gurjão
 
 ## Contact
